@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<div align="center">
+
 <table>
   <tr>
     <td align="center">
@@ -40,3 +42,5 @@
     </td>
   </tr>
 </table>
+
+</div>
